@@ -4,7 +4,7 @@
             "outputFile": "com.pastelyazilim.depo.pastel_depo-mergeReleaseResources-16:/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\_Mobil_Uygulamalar\\pastel_yazilim_depo-master\\pastel_depo\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "D:\\_Mobil_Uygulamalar\\Pastel_Stok_Depo\\pastel_depo\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

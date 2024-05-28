@@ -1,4 +1,4 @@
-#Tue May 28 18:26:39 TRT 2024
-base.0=D\:\\_Mobil_Uygulamalar\\pastel_yazilim_depo-master\\pastel_depo\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+#Tue May 28 19:09:22 TRT 2024
+base.0=D\:\\_Mobil_Uygulamalar\\Pastel_Stok_Depo\\pastel_depo\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

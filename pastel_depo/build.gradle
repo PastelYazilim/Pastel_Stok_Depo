@@ -13,7 +13,7 @@ android {
         config {
             keyAlias 'pastel'
             keyPassword 'pastel'
-            storeFile file('/Volumes/Other_OS/proje_program_deneme/Android_Studio/Android_Studio_Keys/depo/depo')
+            storeFile file('./key.jks')
             storePassword 'pastel'
         }
     }
@@ -48,6 +48,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+    buildToolsVersion '28.0.3'
 }
 
 buildscript {
