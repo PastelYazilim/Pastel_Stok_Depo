@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/spin_bg"
+              android:gravity="center"
+              android:weightSum="10">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent" android:contentDescription="TODO" 
+        android:layout_height="50dp"
+        android:layout_weight="8"
+        android:background="@drawable/tamam_clk"
+        />
+
+    <TextView
+        android:id="@+id/depo_adi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:gravity="center_vertical"
+        android:text="TextView"/>
+</LinearLayout>

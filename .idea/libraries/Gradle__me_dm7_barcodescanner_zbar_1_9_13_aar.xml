@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: me.dm7.barcodescanner:zbar:1.9.13@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/de3e19018d697c5673967cb3e8402e80/jetified-zbar-1.9.13/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2d8a19dd59e9ad5d59a5abb15debc25/jetified-zbar-1.9.13/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/807506a0946ec55cf1ec9096a3cd2abf/jetified-zbar-1.9.13/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3e3ac2aa75f0b92deb8f6e6c94e1644a/jetified-zbar-1.9.13/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4f97a71d74a6d3cb228d024756e52c2e/transformed/jetified-zbar-1.9.13/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/315cb0b46a5b2d34b4761993e3dc7901/transformed/jetified-zbar-1.9.13/jars/libs/zbar.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/315cb0b46a5b2d34b4761993e3dc7901/transformed/jetified-zbar-1.9.13/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/315cb0b46a5b2d34b4761993e3dc7901/transformed/jetified-zbar-1.9.13/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/315cb0b46a5b2d34b4761993e3dc7901/transformed/jetified-zbar-1.9.13/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.dm7.barcodescanner/zbar/1.9.13/8bb23795739a2f77c7808c55adc8997a2327fcba/zbar-1.9.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

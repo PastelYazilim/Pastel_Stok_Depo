@@ -1,0 +1,3 @@
+  Toast.makeText(glob.getApplicationContext(), "", Toast.LENGTH_LONG).show();
+
+/Volumes/Other_OS/veritabani.FDB

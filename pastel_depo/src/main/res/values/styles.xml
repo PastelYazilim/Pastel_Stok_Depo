@@ -1,0 +1,98 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="style_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowTitleStyle">@style/PauseDialogTitle</item>
+    </style>
+
+    <style name="PauseDialogTitle" parent="@android:style/TextAppearance.DialogWindowTitle">
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="butonStyle" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:background">@drawable/button_genel_stil</item>
+        <item name="android:textColor">@color/buton_mavi</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:clickable">true</item>
+    </style>
+
+    <style name="editTextStyle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/textView_yazi_rengi</item>
+    </style>
+
+    <style name="listview_style" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:listSelector">@drawable/listview_selector</item>
+    </style>
+
+    <style name="Garson_Theme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@color/genel_arkaplan</item>
+        <item name="android:textColor">@color/buton_mavi</item>
+        <item name="android:listViewStyle">@style/listview_style</item>
+        <item name="android:buttonStyle">@style/butonStyle</item>
+    </style>
+
+    <array name="porsiyon">
+        <item>TEK PORSİYON</item>
+        <item>1,5 PORSİYON</item>
+        <item>DUBLE PORSİYON</item>
+        <item>AZ PORSİYON</item>
+        <item>YARIM PORSİYON</item>
+        <item>2,5 PORSİYON</item>
+        <item>3 PORSİYON</item>
+
+    </array>
+
+    <style name="Garson_Theme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+    <style name="Garson_Theme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+
+    <style name="AppOverlayTheme" parent="@style/Theme.AppCompat.Light">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+
+        <item name="colorPrimary">@color/primary</item>
+        <!-- darker variant for the status bar and contextual app bars -->
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <!--   theme UI controls like checkboxes and text fields e.g. FloatActionButton -->
+        <item name="colorAccent">@color/accent</item>
+        <!-- Title Text Color -->
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <!-- color of the menu overflow icon (three vertical dots) -->
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+    </style>
+
+
+
+    <style name="TransparentToolbar" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+        <!-- Support Library compability -->
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+</resources>

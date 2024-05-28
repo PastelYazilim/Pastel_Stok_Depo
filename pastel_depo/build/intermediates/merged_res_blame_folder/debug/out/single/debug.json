@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_eksilt.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/eksilt.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_edittext_cerceve.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/edittext_cerceve.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_style_btn_sil.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/style_btn_sil.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_button_cerceve_click.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/button_cerceve_click.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_masa_kirmizi.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/masa_kirmizi.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_button_blue_normal.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/button_blue_normal.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_style_btn_geri.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/style_btn_geri.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_masa_kilitli.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/masa_kilitli.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_logo_saydam.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/logo_saydam.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_list_item_bg_normal.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/list_item_bg_normal.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_border2.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/border2.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_ic_menu_rotate.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/ic_menu_rotate.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_eksilt_clk.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/eksilt_clk.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_ic_media_rew.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/ic_media_rew.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/menu_login.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/menu/login.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/layout_activity_connect_dialog.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/layout/activity_connect_dialog.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_tamam_clk.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/tamam_clk.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_arttir.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/arttir.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_style_btn_yazdir.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/style_btn_yazdir.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_listview_selector.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/listview_selector.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/layout_activity_full_scanner_fragment.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/layout/activity_full_scanner_fragment.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_button_blue_selected.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/button_blue_selected.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_bg_key.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/bg_key.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/layout_lay_spin_depolar.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/layout/lay_spin_depolar.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/layout_activity_main.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/layout_barkod.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/layout/barkod.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_ic_media_rew_clk.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/ic_media_rew_clk.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_masa_gri.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/masa_gri.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_masa_yesil.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/masa_yesil.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_button_red_selected.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/button_red_selected.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_iptal.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/iptal.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/layout_activity_camera_test.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/layout/activity_camera_test.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_sil_clk.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/sil_clk.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_ic_menu_rotate_clk.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/ic_menu_rotate_clk.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_list_item_bg_pressed.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_style_btn_eksilt.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/style_btn_eksilt.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_pastel_garson_yazi.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/pastel_garson_yazi.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_button_cerceve.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/button_cerceve.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_style_btn_iade.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/style_btn_iade.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/layout_activity_full_scanner.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/layout/activity_full_scanner.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_btn_tamam.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/btn_tamam.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable_button_yeni_stil_kirmizi.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable/button_yeni_stil_kirmizi.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_tamam.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/tamam.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/layout_content_full_scanner.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/layout/content_full_scanner.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/menu_main.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/menu/main.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_masa_sari.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/masa_sari.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_uzeri_cizgi.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/uzeri_cizgi.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_detay.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/detay.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable_spin_bg.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable/spin_bg.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_ayarlar.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/ayarlar.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_yazici.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/yazici.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/layout_activity_login.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_button_red_style.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/button_red_style.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/layout_activity_simple_scanner_fragment.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/layout/activity_simple_scanner_fragment.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_yazici_clk.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/yazici_clk.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/menu_salon_menu.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/menu/salon_menu.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_style_btn_tamam.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/style_btn_tamam.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_iptal_clk.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/iptal_clk.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_row.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/row.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_arttir_clk.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/arttir_clk.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_yemek_buton_style.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/yemek_buton_style.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/menu_connect_dialog.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/menu/connect_dialog.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_style_btn_yenile.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/style_btn_yenile.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_renkli_cizgi.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/renkli_cizgi.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_toolbar.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/toolbar.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_logo_yeni.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/logo_yeni.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_siparis_icon_clk.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/siparis_icon_clk.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_style_btn_detay.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/style_btn_detay.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_siparis_icon.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/siparis_icon.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/layout_activity_simple_scanner.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/layout/activity_simple_scanner.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_button_red_normal.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/button_red_normal.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_button_genel_stil.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/button_genel_stil.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_cerceve.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/cerceve.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_button_blue_style.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/button_blue_style.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable_button_yeni_stil_kirmizi_lacivert_cerceve.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable/button_yeni_stil_kirmizi_lacivert_cerceve.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_sil.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/sil.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_style_btn_ayarlar.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/style_btn_ayarlar.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_detay_clk.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/detay_clk.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-mdpi_properties_32x32.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-mdpi/properties_32x32.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/layout_sil.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/layout/sil.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable_button_yeni_stil.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable/button_yeni_stil.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/layout_lay_uyari.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/layout/lay_uyari.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_edit_text_design.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/edit_text_design.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_ayarlar_clk.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/ayarlar_clk.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_bg.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/bg.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/menu_adisyon_activity_menu.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/menu/adisyon_activity_menu.xml"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pastelyazilim.depo.pastel_depo-merged_res-18:/drawable-hdpi_style_btn_arttir.xml.flat",
+        "source": "com.pastelyazilim.depo.pastel_depo-main-20:/drawable-hdpi/style_btn_arttir.xml"
+    }
+]

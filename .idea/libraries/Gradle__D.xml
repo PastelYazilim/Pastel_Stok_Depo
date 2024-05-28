@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: D">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pastel_depo/libs/Jaybird2_2_4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

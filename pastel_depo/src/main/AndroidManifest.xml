@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.pastelyazilim.depo"
+          xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.CAMERA"/>
+
+    <uses-feature android:name="android.hardware.camera"/>
+    <uses-feature android:name="android.hardware.camera.autofocus"/>
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:name=".Global.GlobalClass"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/Garson_Theme"
+        tools:ignore="GoogleAppIndexingWarning"
+        >
+        <activity
+            android:name=".UIActivity.LoginActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+        </activity>
+        <activity
+            android:name=".Barkod.Barkod"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+        </activity>
+        <activity
+            android:name=".UIActivity.ConnectDialogActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:exported="true"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name=".zbar.MainActivity"
+                  android:theme="@style/AppTheme"
+                  android:label="@string/app_name">
+        </activity>
+
+
+        <activity android:name=".zbar.FullScannerActivity"
+                  android:theme="@style/AppOverlayTheme"
+                  android:uiOptions="splitActionBarWhenNarrow"
+                  android:label="@string/scanner_activity">
+            <meta-data android:name="android.support.UI_OPTIONS"
+                       android:value="splitActionBarWhenNarrow" />
+        </activity>
+
+        <activity android:name=".zbar.FullScannerFragmentActivity"
+                  android:theme="@style/AppOverlayTheme"
+                  android:uiOptions="splitActionBarWhenNarrow"
+                  android:label="@string/scanner_fragment_activity">
+            <meta-data android:name="android.support.UI_OPTIONS"
+                       android:value="splitActionBarWhenNarrow" />
+        </activity>
+
+        <activity android:name=".zbar.SimpleScannerActivity"
+                  android:theme="@style/AppOverlayTheme"
+                  android:label="@string/simple_scanner_activity">
+        </activity>
+
+        <activity android:name=".zbar.SimpleScannerFragmentActivity"
+                  android:theme="@style/AppOverlayTheme"
+                  android:label="@string/simple_scanner_fragment_activity">
+        </activity>
+    </application>
+
+</manifest>

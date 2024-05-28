@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="listview">#FF8AD2CC</color>
+    <color name="buton_yazi">#c3ac1f</color>
+    <color name="buton_mavi">#17458a</color>
+
+    <color name="yeni_eklenen_siparis_yazi">#151da9</color>
+    <color name="siparis_no_arkapln">#ffffff</color>
+    <color name="siparis_no_yazi">#9b1616</color>
+    <color name="siparis_secim">#c3ac1f</color>
+    <color name="buton_arkaplan">#ffffff</color>
+    <color name="textView_yazi_rengi">#3e6cae</color>
+
+    <color name="genel_arkaplan">#ffffff</color>
+
+    <color name="transparan">@android:color/transparent</color>
+    <color name="siparis_anaGrup_Urun_cercevesinin_dolgusu">#17458a</color>
+
+    <color name="listview_ayıracinin_cizginin_rengi">#744846</color>
+    <color name="çizgi_mavi">#3e6cae</color>
+    <color name="çizgi_turuncu">#e58908</color>
+
+    <color name="listViewGri">#e7e7e7</color>
+    <color name="siyah">#030303</color>
+    <color name="beyaz">#ffffff</color>
+    <color name="garson_gri_yazi">#625d5d</color>
+    <color name="darkGreen">#0c872f</color>
+
+
+    <color name="actionbar_opacity">#33000000</color>
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="primary_light">#C5CAE9</color>
+    <color name="accent">#ff9925</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+
+</resources>
